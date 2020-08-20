@@ -1,0 +1,20 @@
+{
+  "name": "create-next-typescript-app",
+  "version": "1.0.0",
+  "description": "An extended version of create-next-app to generate typescript based boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://khjabir@github.com/khjabir/create-next-typescript-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khjabir/create-next-typescript-app/issues"
+  },
+  "homepage": "https://github.com/khjabir/create-next-typescript-app#readme"
+}
