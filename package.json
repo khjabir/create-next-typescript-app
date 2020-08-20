@@ -10,11 +10,26 @@
     "type": "git",
     "url": "git+https://khjabir@github.com/khjabir/create-next-typescript-app.git"
   },
-  "keywords": [],
+  "keywords": [
+    "NextJs",
+    "create-next-app",
+    "typescript",
+    "boilerplate"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/khjabir/create-next-typescript-app/issues"
   },
-  "homepage": "https://github.com/khjabir/create-next-typescript-app#readme"
+  "homepage": "https://github.com/khjabir/create-next-typescript-app#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "fs-extra": "^9.0.1",
+    "inquirer": "^7.3.3",
+    "ora": "^5.0.0",
+    "shelljs": "^0.8.4"
+  },
+  "bin": {
+    "create-next-typescript-app": "./index.js"
+  }
 }
