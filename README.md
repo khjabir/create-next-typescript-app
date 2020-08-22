@@ -6,10 +6,10 @@ An extended version of [`create-next-app`](https://github.com/vercel/next.js/tre
 Install the tool globally or use npx to create next typescript apps:
 
 ```bash
-npm i -g create-next-typescript-app
-reate-next-typescript-app
+npx create-next-typescript-app
 
 # or
 
-npx create-next-typescript-app
+npm i -g create-next-typescript-app
+create-next-typescript-app
 ```
