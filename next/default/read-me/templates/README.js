@@ -1,4 +1,4 @@
-module.exports = `This is a [Next.js](https://nextjs.org/) project bootstrapped with [${'`create-next-typescript-app`'}](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+module.exports = `This is a [Next.js](https://nextjs.org/) project bootstrapped with [${'`create-next-typescript-app`'}](https://www.npmjs.com/package/create-next-typescript-app).
 
 ## Getting Started
 
