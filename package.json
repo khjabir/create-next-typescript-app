@@ -1,6 +1,6 @@
 {
   "name": "create-next-typescript-app",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "An extended version of create-next-app to generate typescript based boilerplate",
   "main": "index.js",
   "scripts": {
